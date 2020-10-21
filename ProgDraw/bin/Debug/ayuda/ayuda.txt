@@ -1,0 +1,18 @@
+COMANDOS BASICOS
+   -   arriba<>: arriba<parametro numerico> 
+   -   abajo<>: abajo< parametro numerico >
+   -   derecha<>: derecha< parametro numerico >
+   -   izquierda<>: izquierda< parametro numerico >
+   -   moverx<>: moverx< parametro numerico en relacion a las coordenadas mostradas>
+   -   movery<>: movery< parametro numerico en relacion a las coordenadas mostradas>
+   -   color<>: color< parametro numerico >
+   -   grosor<>: grosor< parametro numerico >
+   -   limpiar<>: limpiar< No requiere parametro>
+   -   ayuda<>: ayuda< No requiere parametro>
+
+PROCEDIMIENTOS
+   -   procedimientos<>: procedimientos<no requiere parametro>. 
+   -   nprocedimiento<>: nprocedimiento<nombre del procedimiento>.
+   -   aprocedimiento<>: aprocedimiento<nombre del procedimiento>.
+   -   eprocedimiento<>: eprocedimiento<nombre del procedimiento>.
+   -   ejecutar<>: ejecutar<nombre del procedimiento>. 

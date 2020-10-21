@@ -1,0 +1,4 @@
+color<5>
+color<2>
+color<3>
+color<4>

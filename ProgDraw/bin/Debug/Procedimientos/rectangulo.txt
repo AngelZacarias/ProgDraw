@@ -1,0 +1,4 @@
+arriba<50>
+derecha<150>
+abajo<50>
+izquierda<150>

@@ -1,0 +1,124 @@
+C:\Users\User\AppData\Local\Temporary Projects\ProgDraw\bin\Debug\ProgDraw.exe.config
+C:\Users\User\AppData\Local\Temporary Projects\ProgDraw\bin\Debug\ProgDraw.exe
+C:\Users\User\AppData\Local\Temporary Projects\ProgDraw\bin\Debug\ProgDraw.pdb
+C:\Users\User\AppData\Local\Temporary Projects\ProgDraw\bin\Debug\ProgDraw.xml
+C:\Users\User\AppData\Local\Temporary Projects\ProgDraw\obj\Debug\ProgDraw.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\ProgDraw\obj\Debug\ProgDraw.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\ProgDraw\obj\Debug\ProgDraw.Splash.resources
+C:\Users\User\AppData\Local\Temporary Projects\ProgDraw\obj\Debug\ProgDraw.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\ProgDraw\obj\Debug\ProgDraw.exe
+C:\Users\User\AppData\Local\Temporary Projects\ProgDraw\obj\Debug\ProgDraw.xml
+C:\Users\User\AppData\Local\Temporary Projects\ProgDraw\obj\Debug\ProgDraw.pdb
+C:\Users\User\Desktop\ProgDraw\ProgDraw\bin\Debug\ProgDraw.exe.config
+C:\Users\User\Desktop\ProgDraw\ProgDraw\obj\Debug\ProgDraw.exe
+C:\Users\User\Desktop\ProgDraw\ProgDraw\obj\Debug\ProgDraw.xml
+C:\Users\User\Desktop\ProgDraw\ProgDraw\obj\Debug\ProgDraw.pdb
+C:\Users\User\Desktop\ProgDraw\ProgDraw\bin\Debug\ProgDraw.exe
+C:\Users\User\Desktop\ProgDraw\ProgDraw\bin\Debug\ProgDraw.pdb
+C:\Users\User\Desktop\ProgDraw\ProgDraw\bin\Debug\ProgDraw.xml
+C:\Users\User\Desktop\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Form1.resources
+C:\Users\User\Desktop\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Resources.resources
+C:\Users\User\Desktop\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Splash.resources
+C:\Users\User\Desktop\ProgDraw\ProgDraw\obj\Debug\ProgDraw.vbproj.GenerateResource.Cache
+F:\ProgDraw\ProgDraw\bin\Debug\ProgDraw.exe.config
+F:\ProgDraw\ProgDraw\obj\Debug\ProgDraw.exe
+F:\ProgDraw\ProgDraw\obj\Debug\ProgDraw.xml
+F:\ProgDraw\ProgDraw\obj\Debug\ProgDraw.pdb
+F:\ProgDraw\ProgDraw\bin\Debug\ProgDraw.exe
+F:\ProgDraw\ProgDraw\bin\Debug\ProgDraw.pdb
+F:\ProgDraw\ProgDraw\bin\Debug\ProgDraw.xml
+F:\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Form1.resources
+F:\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Resources.resources
+F:\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Splash.resources
+F:\ProgDraw\ProgDraw\obj\Debug\ProgDraw.vbproj.GenerateResource.Cache
+D:\ProgDraw\ProgDraw\bin\Debug\ProgDraw.exe.config
+D:\ProgDraw\ProgDraw\obj\Debug\ProgDraw.exe
+D:\ProgDraw\ProgDraw\obj\Debug\ProgDraw.xml
+D:\ProgDraw\ProgDraw\obj\Debug\ProgDraw.pdb
+D:\ProgDraw\ProgDraw\bin\Debug\ProgDraw.exe
+D:\ProgDraw\ProgDraw\bin\Debug\ProgDraw.pdb
+D:\ProgDraw\ProgDraw\bin\Debug\ProgDraw.xml
+D:\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Form1.resources
+D:\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Resources.resources
+D:\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Splash.resources
+D:\ProgDraw\ProgDraw\obj\Debug\ProgDraw.vbproj.GenerateResource.Cache
+D:\ProgDraw\ProgDraw\obj\Debug\ProgDraw.AcercaDe.resources
+F:\ProgDraw\ProgDraw\obj\Debug\ProgDraw.AcercaDe.resources
+F:\CETI\Septimo\CEI\ProgDraw\ProgDraw\bin\Debug\ProgDraw.exe.config
+F:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.exe
+F:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.xml
+F:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.pdb
+F:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.AcercaDe.resources
+F:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Form1.resources
+F:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Resources.resources
+F:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Splash.resources
+F:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.vbproj.GenerateResource.Cache
+F:\CETI\Septimo\CEI\ProgDraw\ProgDraw\bin\Debug\ProgDraw.exe
+F:\CETI\Septimo\CEI\ProgDraw\ProgDraw\bin\Debug\ProgDraw.pdb
+F:\CETI\Septimo\CEI\ProgDraw\ProgDraw\bin\Debug\ProgDraw.xml
+F:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.procedimintos.resources
+D:\CETI\Septimo\CEI\ProgDraw\ProgDraw\bin\Debug\ProgDraw.exe.config
+D:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.exe
+D:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.xml
+D:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.pdb
+D:\CETI\Septimo\CEI\ProgDraw\ProgDraw\bin\Debug\ProgDraw.exe
+D:\CETI\Septimo\CEI\ProgDraw\ProgDraw\bin\Debug\ProgDraw.pdb
+D:\CETI\Septimo\CEI\ProgDraw\ProgDraw\bin\Debug\ProgDraw.xml
+D:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.AcercaDe.resources
+D:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Form1.resources
+D:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Resources.resources
+D:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.procedimintos.resources
+D:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Splash.resources
+D:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.vbproj.GenerateResource.Cache
+F:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.ayuda.resources
+D:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.ayuda.resources
+D:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.contacto.resources
+F:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.compilador.resources
+F:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.contacto.resources
+D:\CETI\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.compilador.resources
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\bin\Debug\ProgDraw.exe.config
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\bin\Debug\ProgDraw.exe
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\bin\Debug\ProgDraw.pdb
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\bin\Debug\ProgDraw.xml
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.vbprojAssemblyReference.cache
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.AcercaDe.resources
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.ayuda.resources
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.compilador.resources
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.contacto.resources
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Form1.resources
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Resources.resources
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.procedimintos.resources
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Splash.resources
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.vbproj.GenerateResource.cache
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.vbproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.vbproj.CopyComplete
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.exe
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.xml
+C:\Users\Angel\Documents\Ceti\Septimo\CEI\ProgDraw\ProgDraw\obj\Debug\ProgDraw.pdb
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\obj\Debug\ProgDraw.vbprojAssemblyReference.cache
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\obj\Debug\ProgDraw.AcercaDe.resources
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\obj\Debug\ProgDraw.ayuda.resources
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\obj\Debug\ProgDraw.compilador.resources
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\obj\Debug\ProgDraw.contacto.resources
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Form1.resources
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\obj\Debug\ProgDraw.ModoJuego.resources
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Resources.resources
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\obj\Debug\ProgDraw.procedimintos.resources
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Splash.resources
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\obj\Debug\ProgDraw.vbproj.GenerateResource.cache
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\obj\Debug\ProgDraw.vbproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\obj\Debug\ProgDraw.exe
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\obj\Debug\ProgDraw.xml
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\obj\Debug\ProgDraw.pdb
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\bin\Debug\ProgDraw.exe.config
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\bin\Debug\ProgDraw.exe
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\bin\Debug\ProgDraw.pdb
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\bin\Debug\ProgDraw.xml
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\obj\Debug\ProgDraw.vbproj.CopyComplete
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Jugadores.resources
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\bin\Debug\MySql.Data.dll
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\bin\Debug\Renci.SshNet.dll
+C:\Users\Angel\Desktop\CUCEI QUINTO\Sistemas Operativos\ProgDraw\ProgDraw\obj\Debug\ProgDraw.Resultados.resources

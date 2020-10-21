@@ -1,0 +1,4 @@
+arriba<5>
+derecha<10>
+abajo<5>
+izquierda<10>
