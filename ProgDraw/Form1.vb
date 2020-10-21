@@ -21,7 +21,8 @@ Public Class Form1
     Public RecienAsignado As Boolean = False
     Public TiempoRestante As Integer
     Dim sDibujo As String
-    Public connection As New MySqlConnection("datasource=remotemysql.com;port=3306;username=AhiNHywhWb;password=ZgI6LdIR2K;database=AhiNHywhWb;")
+    Public sConnectionString As String = Environment.GetEnvironmentVariable("Connection")
+    Public connection As New MySqlConnection(sConnectionString)
 
     'Structure donde se crean las variables
     Public Structure PointOfLines
